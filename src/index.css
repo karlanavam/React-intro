@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.lista-style{
+    list-style: none;
+}
+
+.div-lista{
+    background-color: aquamarine;
+    width: 180px;
+    height: 180px;
+    padding: 15px;
+    margin: 20px;
+    display: inline-block;
+}
+
+.h1{
+    text-align: center;
+}
